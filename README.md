@@ -2,7 +2,7 @@
 
 # Practica de Semana 8 (Grupo 3)
 
-__Repositorio de practica de la sexta semana de la materia Sensores y Actuadores__
+__Repositorio de practica de la octava semana de la materia Sensores y Actuadores__
 
  
 ### Alumnos 
