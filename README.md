@@ -11,7 +11,7 @@ __Repositorio de practica de la octava semana de la materia Sensores y Actuadore
 + [Lionel Rios](https://github.com/RiosLionel)
 + [Oscar Gazzola](https://github.com/OscarAGazzola)
 + [Jeremias Castro](https://github.com/Jerec4stro)
-+ Daniel 
++ Daniel Rodriguez
 
 
 
